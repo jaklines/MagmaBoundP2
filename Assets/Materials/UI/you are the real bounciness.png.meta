@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 710b883c0ff3c2049a5d2339655562e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 697684343801344340
+    second: you are the real bounciness_0
+  - first:
+      213: 6839481890069833099
+    second: you are the real bounciness_1
+  - first:
+      213: -1466307383176963574
+    second: you are the real bounciness_2
+  - first:
+      213: -3474941882059951305
+    second: you are the real bounciness_3
+  - first:
+      213: -8670059342209615660
+    second: you are the real bounciness_4
+  - first:
+      213: 3135798884634931517
+    second: you are the real bounciness_5
+  - first:
+      213: -9076588980356846585
+    second: you are the real bounciness_6
+  - first:
+      213: -4286004516375084006
+    second: you are the real bounciness_7
+  - first:
+      213: 496076632143262310
+    second: you are the real bounciness_8
+  - first:
+      213: -6183779030161567328
+    second: you are the real bounciness_9
+  - first:
+      213: 3589394301558560623
+    second: you are the real bounciness_10
+  - first:
+      213: 4053396835294456798
+    second: you are the real bounciness_11
+  - first:
+      213: 7262727717878527808
+    second: you are the real bounciness_12
+  - first:
+      213: -5464229886159408972
+    second: you are the real bounciness_13
+  - first:
+      213: 4606052534594263520
+    second: you are the real bounciness_14
+  - first:
+      213: 1494575933217670148
+    second: you are the real bounciness_15
+  - first:
+      213: 3401598910468781243
+    second: you are the real bounciness_16
+  - first:
+      213: -6068587207899436608
+    second: you are the real bounciness_17
+  - first:
+      213: -4204618220210839423
+    second: you are the real bounciness_18
+  - first:
+      213: -1937580589141702522
+    second: you are the real bounciness_19
+  - first:
+      213: -7983324547948834352
+    second: you are the real bounciness_20
+  - first:
+      213: 3487373696209940668
+    second: you are the real bounciness_21
+  - first:
+      213: -7716836546133081156
+    second: you are the real bounciness_22
+  - first:
+      213: 2577139025118280876
+    second: you are the real bounciness_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: you are the real bounciness_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 941
+        width: 1275
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45171a5d63caea900800000000000000
+      internalID: 697684343801344340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1005
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b856459ba88baee50800000000000000
+      internalID: 6839481890069833099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1005
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a543e2431a6abe0800000000000000
+      internalID: -1466307383176963574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1005
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73370b0f4c686cfc0800000000000000
+      internalID: -3474941882059951305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1005
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8f906d6f2cda780800000000000000
+      internalID: -8670059342209615660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1005
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d313bbda878948b20800000000000000
+      internalID: 3135798884634931517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1005
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cea95896a790280800000000000000
+      internalID: -9076588980356846585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1005
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144ebfb99d0584c0800000000000000
+      internalID: -4286004516375084006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1005
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627540911b62e600800000000000000
+      internalID: 496076632143262310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1005
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1d5b13cbdce2aa0800000000000000
+      internalID: -6183779030161567328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1005
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67953f891710d130800000000000000
+      internalID: 3589394301558560623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1005
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2b6522fe804830800000000000000
+      internalID: 4053396835294456798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_12
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1005
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047788c31646ac460800000000000000
+      internalID: 7262727717878527808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_13
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1005
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b035688ed72b24b0800000000000000
+      internalID: -5464229886159408972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_14
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1005
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e95745506cfbef30800000000000000
+      internalID: 4606052534594263520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1005
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404894584eccdb410800000000000000
+      internalID: 1494575933217670148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_16
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1005
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4f8d6cf28e43f20800000000000000
+      internalID: 3401598910468781243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_17
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1005
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9aca0561c08cba0800000000000000
+      internalID: -6068587207899436608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1083
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a238710236a5c0800000000000000
+      internalID: -4204618220210839423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_19
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1005
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688448c48b45c15e0800000000000000
+      internalID: -1937580589141702522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_20
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1005
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d19ad00f98853190800000000000000
+      internalID: -7983324547948834352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_21
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1005
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb072a956e3a56030800000000000000
+      internalID: 3487373696209940668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_22
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1005
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34cfdfb0a48e490800000000000000
+      internalID: -7716836546133081156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you are the real bounciness_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 873
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb8f00a46d3c320800000000000000
+      internalID: 2577139025118280876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 309125e87a64f6143bdb03cc59d343d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      you are the real bounciness_0: 697684343801344340
+      you are the real bounciness_1: 6839481890069833099
+      you are the real bounciness_10: 3589394301558560623
+      you are the real bounciness_11: 4053396835294456798
+      you are the real bounciness_12: 7262727717878527808
+      you are the real bounciness_13: -5464229886159408972
+      you are the real bounciness_14: 4606052534594263520
+      you are the real bounciness_15: 1494575933217670148
+      you are the real bounciness_16: 3401598910468781243
+      you are the real bounciness_17: -6068587207899436608
+      you are the real bounciness_18: -4204618220210839423
+      you are the real bounciness_19: -1937580589141702522
+      you are the real bounciness_2: -1466307383176963574
+      you are the real bounciness_20: -7983324547948834352
+      you are the real bounciness_21: 3487373696209940668
+      you are the real bounciness_22: -7716836546133081156
+      you are the real bounciness_23: 2577139025118280876
+      you are the real bounciness_3: -3474941882059951305
+      you are the real bounciness_4: -8670059342209615660
+      you are the real bounciness_5: 3135798884634931517
+      you are the real bounciness_6: -9076588980356846585
+      you are the real bounciness_7: -4286004516375084006
+      you are the real bounciness_8: 496076632143262310
+      you are the real bounciness_9: -6183779030161567328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

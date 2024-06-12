@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 0a1ea444bcee67c41b7f8dc7476e2f6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7306964593131433597
+    second: You did'n't collect all the coins!_0
+  - first:
+      213: 4834142954158729544
+    second: You did'n't collect all the coins!_1
+  - first:
+      213: -9111395160685632002
+    second: You did'n't collect all the coins!_2
+  - first:
+      213: 357970230585554401
+    second: You did'n't collect all the coins!_3
+  - first:
+      213: 189623618828728087
+    second: You did'n't collect all the coins!_4
+  - first:
+      213: 304672453449573360
+    second: You did'n't collect all the coins!_5
+  - first:
+      213: 3392393564534375151
+    second: You did'n't collect all the coins!_6
+  - first:
+      213: 2696076605858499644
+    second: You did'n't collect all the coins!_7
+  - first:
+      213: -8850574759941994410
+    second: You did'n't collect all the coins!_8
+  - first:
+      213: 2461645578714919239
+    second: You did'n't collect all the coins!_9
+  - first:
+      213: -6189590935810672437
+    second: You did'n't collect all the coins!_10
+  - first:
+      213: -6792600315528074493
+    second: You did'n't collect all the coins!_11
+  - first:
+      213: -8613216093751871928
+    second: You did'n't collect all the coins!_12
+  - first:
+      213: -1765429100559997095
+    second: You did'n't collect all the coins!_13
+  - first:
+      213: 6497063482378540605
+    second: You did'n't collect all the coins!_14
+  - first:
+      213: -1101335037666476304
+    second: You did'n't collect all the coins!_15
+  - first:
+      213: -803489004245329679
+    second: You did'n't collect all the coins!_16
+  - first:
+      213: -6644701886472243688
+    second: You did'n't collect all the coins!_17
+  - first:
+      213: -1335391669680154514
+    second: You did'n't collect all the coins!_18
+  - first:
+      213: -2988155357487967217
+    second: You did'n't collect all the coins!_19
+  - first:
+      213: -1334428967378878416
+    second: You did'n't collect all the coins!_20
+  - first:
+      213: -2653733247124379160
+    second: You did'n't collect all the coins!_21
+  - first:
+      213: -7639784621178103237
+    second: You did'n't collect all the coins!_22
+  - first:
+      213: -961855029836765243
+    second: You did'n't collect all the coins!_23
+  - first:
+      213: 3704052774457966216
+    second: You did'n't collect all the coins!_24
+  - first:
+      213: 1429540098881800205
+    second: You did'n't collect all the coins!_25
+  - first:
+      213: 376345072246344930
+    second: You did'n't collect all the coins!_26
+  - first:
+      213: 5632639088377969904
+    second: You did'n't collect all the coins!_27
+  - first:
+      213: 8400801415538179605
+    second: You did'n't collect all the coins!_28
+  - first:
+      213: 8914844725376923165
+    second: You did'n't collect all the coins!_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 982
+        width: 1050
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ea4ff559d876560800000000000000
+      internalID: 7306964593131433597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1009
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a6188763561340800000000000000
+      internalID: 4834142954158729544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1072
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ae172062dd8180800000000000000
+      internalID: -9111395160685632002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1009
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e577323704c7f400800000000000000
+      internalID: 357970230585554401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1067
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177f493dada1a200800000000000000
+      internalID: 189623618828728087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1009
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f365b07bf96a3400800000000000000
+      internalID: 304672453449573360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1009
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2846829f3341f20800000000000000
+      internalID: 3392393564534375151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1009
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ccf6b73636a6520800000000000000
+      internalID: 2696076605858499644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1009
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588e9fe5217c2580800000000000000
+      internalID: -8850574759941994410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1009
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741b63a8c95892220800000000000000
+      internalID: 2461645578714919239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1009
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8f60676d72a1aa0800000000000000
+      internalID: -6189590935810672437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1009
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b2eb37006dbb1a0800000000000000
+      internalID: -6792600315528074493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1009
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846fd36f895b77880800000000000000
+      internalID: -8613216093751871928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1072
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ebf0369fef77e0800000000000000
+      internalID: -1765429100559997095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1009
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d55670d43a2a50800000000000000
+      internalID: 6497063482378540605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1009
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb23d4e9547b0f0800000000000000
+      internalID: -1101335037666476304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1009
+        width: 11
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f85609f10f69d4f0800000000000000
+      internalID: -803489004245329679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1009
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8163472e6d649c3a0800000000000000
+      internalID: -6644701886472243688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1009
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d2b40a5cb77de0800000000000000
+      internalID: -1335391669680154514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1009
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04df37c880f786d0800000000000000
+      internalID: -2988155357487967217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1009
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030046d9ce72b7de0800000000000000
+      internalID: -1334428967378878416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1009
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9e18cfbab0c2bd0800000000000000
+      internalID: -2653733247124379160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_22
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1009
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3adf264d580af590800000000000000
+      internalID: -7639784621178103237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_23
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1009
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7282d42fdc6a2f0800000000000000
+      internalID: -961855029836765243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_24
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1009
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88efdda9f50776330800000000000000
+      internalID: 3704052774457966216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_25
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1009
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08c60a552fb6d310800000000000000
+      internalID: 1429540098881800205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_26
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1009
+        width: 11
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec463869db093500800000000000000
+      internalID: 376345072246344930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_27
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1009
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcbfba68672b2e40800000000000000
+      internalID: 5632639088377969904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_28
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1009
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e70c9c064a59470800000000000000
+      internalID: 8400801415538179605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You did'n't collect all the coins!_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 873
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d163bdb7b04e7bb70800000000000000
+      internalID: 8914844725376923165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2bcd970a2ae86ae4a83823d59b6a346f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      You did'n't collect all the coins!_0: 7306964593131433597
+      You did'n't collect all the coins!_1: 4834142954158729544
+      You did'n't collect all the coins!_10: -6189590935810672437
+      You did'n't collect all the coins!_11: -6792600315528074493
+      You did'n't collect all the coins!_12: -8613216093751871928
+      You did'n't collect all the coins!_13: -1765429100559997095
+      You did'n't collect all the coins!_14: 6497063482378540605
+      You did'n't collect all the coins!_15: -1101335037666476304
+      You did'n't collect all the coins!_16: -803489004245329679
+      You did'n't collect all the coins!_17: -6644701886472243688
+      You did'n't collect all the coins!_18: -1335391669680154514
+      You did'n't collect all the coins!_19: -2988155357487967217
+      You did'n't collect all the coins!_2: -9111395160685632002
+      You did'n't collect all the coins!_20: -1334428967378878416
+      You did'n't collect all the coins!_21: -2653733247124379160
+      You did'n't collect all the coins!_22: -7639784621178103237
+      You did'n't collect all the coins!_23: -961855029836765243
+      You did'n't collect all the coins!_24: 3704052774457966216
+      You did'n't collect all the coins!_25: 1429540098881800205
+      You did'n't collect all the coins!_26: 376345072246344930
+      You did'n't collect all the coins!_27: 5632639088377969904
+      You did'n't collect all the coins!_28: 8400801415538179605
+      You did'n't collect all the coins!_29: 8914844725376923165
+      You did'n't collect all the coins!_3: 357970230585554401
+      You did'n't collect all the coins!_4: 189623618828728087
+      You did'n't collect all the coins!_5: 304672453449573360
+      You did'n't collect all the coins!_6: 3392393564534375151
+      You did'n't collect all the coins!_7: 2696076605858499644
+      You did'n't collect all the coins!_8: -8850574759941994410
+      You did'n't collect all the coins!_9: 2461645578714919239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

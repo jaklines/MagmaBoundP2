@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: c33028615f6148f4280eb771ba8053ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5014871919296848788
+    second: pngimg.com - game_over_PNG22_0
+  - first:
+      213: -6979438992173266294
+    second: pngimg.com - game_over_PNG22_1
+  - first:
+      213: 1090115959762260000
+    second: pngimg.com - game_over_PNG22_2
+  - first:
+      213: 6168053183617823599
+    second: pngimg.com - game_over_PNG22_3
+  - first:
+      213: 7485472215477606450
+    second: pngimg.com - game_over_PNG22_4
+  - first:
+      213: -8360154863652913784
+    second: pngimg.com - game_over_PNG22_5
+  - first:
+      213: 2358336880156590726
+    second: pngimg.com - game_over_PNG22_6
+  - first:
+      213: -794731632148456794
+    second: pngimg.com - game_over_PNG22_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 143
+        width: 270
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cda303f88976ab0800000000000000
+      internalID: -5014871919296848788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 249
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a800c173d042f90800000000000000
+      internalID: -6979438992173266294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 249
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0201d9190bed02f00800000000000000
+      internalID: 1090115959762260000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 249
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f145d0b3599550800000000000000
+      internalID: 6168053183617823599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 149
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238599bf15db1e760800000000000000
+      internalID: 7485472215477606450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 149
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88db6bc0273cafb80800000000000000
+      internalID: -8360154863652913784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 149
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682cf62c5ee7ab020800000000000000
+      internalID: 2358336880156590726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngimg.com - game_over_PNG22_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 149
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa560e8acb88f4f0800000000000000
+      internalID: -794731632148456794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cba1fafaca3e54e47b5cc043a826d1dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngimg.com - game_over_PNG22_0: -5014871919296848788
+      pngimg.com - game_over_PNG22_1: -6979438992173266294
+      pngimg.com - game_over_PNG22_2: 1090115959762260000
+      pngimg.com - game_over_PNG22_3: 6168053183617823599
+      pngimg.com - game_over_PNG22_4: 7485472215477606450
+      pngimg.com - game_over_PNG22_5: -8360154863652913784
+      pngimg.com - game_over_PNG22_6: 2358336880156590726
+      pngimg.com - game_over_PNG22_7: -794731632148456794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
